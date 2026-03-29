@@ -67,7 +67,7 @@ to:
 
 ## Example
 
-![](https://github.com/qzw881130/ComfyUI-ShowNodeID/demo.png)
+![](demo.png)
 
 ## 🛠️ How It Works
 
